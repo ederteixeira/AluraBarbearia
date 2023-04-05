@@ -21,3 +21,11 @@ p {
 strong {
 	color: #FF0000;
 }
+
+h2 {
+	text-align: center;
+}
+
+.itens {
+	font-style: italic;
+}
