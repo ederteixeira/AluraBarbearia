@@ -1,5 +1,5 @@
-body {
-	
+.titulo_principal {
+	padding-left: 20px;
 }
 
 #banner {
@@ -11,7 +11,7 @@ body {
 	padding: 30px;
 }
 
-h1 {
+.titulo_central {
 	text-align: center;
 }
 
@@ -27,9 +27,6 @@ strong {
 	color: #FF0000;
 }
 
-h2 {
-	text-align: center;
-}
 
 .itens {
 	font-style: italic;
